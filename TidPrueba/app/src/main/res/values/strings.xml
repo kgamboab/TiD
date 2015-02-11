@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"TidPrueba "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="augmented_fragment_string">Augmented Fragment</string>
+    <string name="facebook_fragment_string">FaceBook</string>
+    <string name="New_Text">Nuevo Texto</string>
+
+    <string name="abrir">Abrir Drawer </string>
+    <string name="cerrar">Cerrar Drawer </string>
+
+    <string-array name="opciones">
+        <item> Augmented Reality </item>
+        <item> Facebook </item>
+        <item> Abrir Google </item>
+        <item> Consulta Aytunes</item>
+        <item> Grafica Barras</item>
+        <item> Grafica Lineas</item>
+        <item> Grafica PIE</item>
+    </string-array>
+
+
+</resources>
